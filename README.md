@@ -142,7 +142,7 @@ You can also generate this data by yourself if you want. Requirements: Java, Gra
 1. Run `./gradlew jar`
 2. Run `./wikivoyage-listings.sh`, this will show the help
 
-Example: `./wikivoyage-listings.sh -generate -input-latest ru -output-filename ru.csv -output-format csv`
+Example: `./wikivoyage-listings.sh -generate -input-latest en -output-filename en.csv -output-format csv`
 
 # Data license
 
